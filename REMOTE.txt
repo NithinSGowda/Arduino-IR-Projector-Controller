@@ -1,0 +1,8 @@
+4CB313EC - OK
+4CB3916E - Zoom
+4CB3639C -UP -working
+E195CBC2 - Down
+66DC2476 -Right
+B24CA144 - Left
+4CB3817E - Power -working
+BA7D377E - Brightness
